@@ -1,12 +1,12 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Recruit Site List
+subtitle: a list of recruting site
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+참고할만한 개발자 채용 공고 사이트:
 
 1. Robert Burton: *The Anatomy of Melancholy*
 2. Robert Musil: *The Man Without Qualities*
