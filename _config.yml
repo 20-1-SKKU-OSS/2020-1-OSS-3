@@ -30,7 +30,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 주니어 개발자를 위한  취업 정보
+title: Junior Recruit Scheduler
 subtitle: OSS 3조(SKKU)
 description: >- # this means to ignore newlines until "baseurl:"
   This is the demo site for a Jekyll theme version of
