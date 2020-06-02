@@ -8,9 +8,11 @@
  * [프로젝트 개선 방향](#improvement)
 
 ## <div id = "homepage">홈페이지</div>
+
 https://20-1-skku-oss.github.io/2020-1-OSS-3/
 
 ## <div id = "members">팀 소개</div>
+
 ### 팀장
 + 정현재
 > 이메일: guswo2580@gmail.com<br>
@@ -32,10 +34,13 @@ https://20-1-skku-oss.github.io/2020-1-OSS-3/
 > 이메일: eaglus@naver.com<br>
 > GitHub ID: [HyeonjinChoi](https://github.com/HyeonjinChoi)<br>
 
+
 ## <div id = "introduction">프로젝트 소개</div>
 
+팀에서 선정한 프로젝트는 <a href="https://github.com/jojoldu/junior-recruit-scheduler">'Junior Recruit Scheduler'</a>이다. 주니어 개발자를 위한 양질의 채용정보를 한곳에 모으기 위한 저장소를 목적으로 진행되는 프로젝트이다. 주 내용으로 인턴/신입/주니어 채용 & 해커톤 일정 등이 있다.
 
 ## <div id = "contribution_plan">프로젝트 기여 방안</div>
+
 
 
 ## <div id = "activity_plan">프로젝트 활동 계획</div>
