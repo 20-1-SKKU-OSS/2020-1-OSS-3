@@ -14,7 +14,6 @@ https://20-1-skku-oss.github.io/2020-1-OSS-3/
 ### 팀장
 + 정현재
 > 이메일: guswo2580@gmail.com<br>
-> GitHub ID: []()<br>
 
 ### 팀원
 + 강호형
