@@ -1,7 +1,7 @@
 ---
 title: Welcome Juniors!
 icon: fa-check
-order: 5
+order: 3
 ---
 
 <div style="text-align: left">
