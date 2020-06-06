@@ -31,12 +31,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Junior Recruit Scheduler
-subtitle: OSS 3조(SKKU)
+subtitle: Open Source Software Practice- Team Project Group 3
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
-author: OSS T3
-email: your-email@example.com
+author:
+email:
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
