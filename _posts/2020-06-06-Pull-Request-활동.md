@@ -10,13 +10,17 @@ layout: post
 ---
 <h2>Pull Request 요청</h2>
 <img src="{{ 'assets/images/prlist2.PNG' | relative_url }}" alt="prlist" />
+
 ---
+
 <h2>PR에 따른 커뮤니케이션</h2>
 <p>다른 기여자들과 Pull Request 건에 대한 의견을 주고 받았습니다.</p>
 <img src="{{ 'assets/images/prex2.PNG' | relative_url }}" alt="prex" />
 <p>요청한 PR 대부분이 해당 저장소에 merge 되었습니다.</p>
 <img src="{{ 'assets/images/praccept.PNG' | relative_url }}" alt="prex" />
+
 ---
+
 <h2>PR 내역</h2>
 <p>본 팀에서 요청한 PR 내역입니다.</p>
 <ol>
