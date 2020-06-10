@@ -4,8 +4,6 @@
  * [팀 소개](#members)
  * [프로젝트 소개](#introduction)
  * [프로젝트 기여 방안](#contribution_plan)
- * [프로젝트 활동 일정](#activity_schedule)
- * [프로젝트 기여 결과](#contribution_results)
  * [프로젝트 개선 방향](#improvement)
 
 ## <div id = "homepage">홈페이지</div>
